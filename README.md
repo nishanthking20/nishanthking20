@@ -17,20 +17,7 @@ Backend Developer focused on designing scalable and efficient server-side applic
 
 💡 I focus on clean architecture, performance, and real-world scalability.
 
----
 
-## 🚀 Projects
-
-### 🔹 SpareXpat Backend
-- Full-featured marketplace backend (Auth, Listings, Orders, Chat)
-- REST API with JWT authentication & role-based access
-- Integrated Stripe payments & real-time chat
-- Deployed on AWS using Nginx & PM2
-
-### 🔹 Investor Matching Platform
-- Managed 11,000+ investor records
-- Advanced filtering & pagination system
-- Optimized MongoDB queries for performance
 
 ---
 
